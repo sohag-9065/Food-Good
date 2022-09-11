@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Salmon with Grapefruit and Lentil Salad",
+        "price": "$00",
+        "description": "Lorem ipsum d quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/KGcf0YC/dinner1.png"
+    },
+    {
+        "id": 2,
+        "name": "Lemony salmon Picata",
+        "price": "$40",
+        "description": "Lorem ipra molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/dWNzWVt/dinner2.png"
+    },
+    {
+        "id": 3,
+        "name": "Pork Tenderloin With Quinoa Pilaf",
+        "price": "$50",
+        "description": "Lorem ipsum periam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/yVcNG69/dinner3.png"
+    },
+    {
+        "id": 4,
+        "name": "French Fries With Cheese",
+        "price": "$80",
+        "description": "Lorem ipsum dolor sit amet, consectetu .",
+        "img": "https://i.ibb.co/vQB7HJS/dinner4.png"
+    },
+    {
+        "id": 5,
+        "name": "Garlic Butter Baked Salmon",
+        "price": "$60",
+        "description": "Lorem ipsum dolor sit amet,ametipsa.",
+        "img": "https://i.ibb.co/hLZ0Nfc/dinner5.png"
+    },
+    {
+        "id": 6,
+        "name": "Baked Chiken",
+        "price": "$50",
+        "description": "Lorem ips voluptatibus harum ametipsa",
+        "img": "https://i.ibb.co/KN0GC3c/dinner6.png"
+    }
+]

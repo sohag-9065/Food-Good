@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Eggs Benedict",
+        "price": "$60",
+        "description": "Lorem ipsum d quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/SJgFvt1/breakfast1.png"
+    },
+    {
+        "id": 2,
+        "name": "Breakfast sandwich",
+        "price": "$80",
+        "description": "Lorem ipra molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/HCCYzVH/breakfast2.png"
+    },
+    {
+        "id": 3,
+        "name": "Baked Chiken",
+        "price": "$30",
+        "description": "Lorem ipsum periam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/k6x9w0j/breakfast3.png"
+    },
+    {
+        "id": 4,
+        "name": "Bagel ans cream cheese",
+        "price": "$40",
+        "description": "Lorem ipsum dolor sit amet, consectetu .",
+        "img": "https://i.ibb.co/DVVdpQD/breakfast4.png"
+    },
+    {
+        "id": 5,
+        "name": "Full Breakfast Fried Egg Toast Brunch",
+        "price": "$56",
+        "description": "Lorem ipsum dolor sit amet,ametipsa.",
+        "img": "https://i.ibb.co/xHj7MrK/breakfast5.png"
+    },
+    {
+        "id": 6,
+        "name": "Toast Croissant Fried Egg",
+        "price": "$20",
+        "description": "Lorem ips voluptatibus harum ametipsa",
+        "img": "https://i.ibb.co/nm3pYsf/breakfast6.png"
+    }
+]

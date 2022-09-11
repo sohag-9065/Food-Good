@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Fast Delivery",
+        "description": "Lorem ipsum d quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/7SJLNsR/adult-blur-blurred-background-687824.png",
+        "icon-image" : ""
+    },
+    {
+        "id": 2,
+        "title": "A Good Auto Responder",
+        "description": "Lorem ipra molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/KNbz0dY/chef-cook-food-33614.png",
+        "icon-image" : ""
+    },
+    {
+        "id": 3,
+        "title": "Home delivery",
+        "description": "Lorem ipsum periam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/9gxfcdc/architecture-building-city-2047397.png",
+        "icon-image" : ""
+    }
+]
